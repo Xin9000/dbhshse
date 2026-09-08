@@ -1,7 +1,7 @@
 {
-  "name": "Seaborn",
+  "name": "Seaborn v2",
   "description": "Dark and blue gradients with Skadi wallpaper",
-  "version": "1",
+  "version": "2",
   "authors": [
     {
       "name": "Xin",
@@ -135,7 +135,7 @@
   "background": {
     "blur": 0.7,
     "url": "https://w.wallhaven.cc/full/pk/wallhaven-pkzdxp.jpg",
-    "alpha": 0.5
+    "alpha": 0.3
   },
   "plus": {
     "version": "0",
