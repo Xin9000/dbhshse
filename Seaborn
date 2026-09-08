@@ -133,7 +133,7 @@
     "SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1"
   },
   "background": {
-    "blur": 2.0,
+    "blur": 0.7,
     "url": "https://w.wallhaven.cc/full/1p/wallhaven-1pgkzg.jpg",
     "alpha": 0.68
   },
